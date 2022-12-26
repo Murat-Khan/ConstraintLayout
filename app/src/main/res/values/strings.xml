@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="title">Blade Runner 2045</string>
+    <string name="director">Director:</string>
+    <string name="murat_mamedov">Murat Mamedov</string>
+    <string name="actor_1">Harrison Ford</string>
+    <string name="actor_2">Ryan Gosling</string>
+    <string name="actor_3">Ana de Armas</string>
+    <string name="actor_4">Dave Bautista</string>
+    <string name="like">Like</string>
+    <string name="watch">Watch</string>
+
+    <string name="share">Share</string>
+    <string name="description">Officer K (Ryan Gosling), a new blade runner for the Los Angeles Police Department, unearths a long-buried secret that has the potential to plunge what\'s left of society into chaos</string>
+    <string name="actor">Actor</string>
+</resources>
